@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm [Shaik Afzal]! 👋
 
-<!--
-**shaikafzal-18/shaikafzal-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Python developer currently building projects in the Fintech space.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a **Python Projects**
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about **Python basics**
+- 📫 How to reach me: [shaikafzal2941@gmail.com/]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=[shaikafzal-18]&show_icons=true&theme=radical" alt="Stats" />
+</p>
